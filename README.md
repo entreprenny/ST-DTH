@@ -1,2 +1,2 @@
 # ST-DTH
-SmartThings Device Type Handlers
+Collection of Groovy based SmartThings Device Type Handlers (DTH).
